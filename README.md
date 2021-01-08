@@ -80,18 +80,26 @@ output:
 #3
 SUM(salary)
 40000.849609375
+
+
 #4
 MAX(salary)
 
 50000.5
+
+
 #5
 AVG(salary)
 
 35000.39990234375
+
+
 #6
 MIN(salary)
 
 15000.849609375
+
+
 #7
 COUNT(*)
 
